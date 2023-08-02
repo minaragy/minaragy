@@ -18,7 +18,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minaragy&label=Profile%20views&color=0e75b6&style=flat" alt="minaragy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minaragy" alt="minaragy" /></a> </p>
+<p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github.com/minaragy)"><img src="https://github-profile-trophy.vercel.app/?username=minaragy" alt="minaragy" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
