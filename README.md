@@ -4,11 +4,6 @@
 <h1 align="center"> 👋 Hello Everyone, I'm Mina Ragy </h1>
 <h3 align="center">Software Engineer | Front-End Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maeshai&label=Profile%20views&color=0e75b6&style=flat" alt="maeshai" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maeshai" alt="maeshai" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ghandoriel" target="blank"><img src="https://img.shields.io/twitter/follow/ghandoriel?logo=twitter&style=for-the-badge" alt="ghandoriel" /></a> </p>
 
 
 - 🔭 I’m currently working At **Alx-Africa**
@@ -20,6 +15,10 @@
 - 📫 How to reach me **minaragy138@gmail.com**
 
 - 📄 Know about my experiences [Click Here](https://www.linkedin.com/in/minaragy1/)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=minaragy&label=Profile%20views&color=0e75b6&style=flat" alt="minaragy" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minaragy" alt="minaragy" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
