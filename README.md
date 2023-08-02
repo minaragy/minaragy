@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **minaragy138@gmail.com**
 
-- 📄 Know about my experiences [Click Here](https://www.linkedin.com/in/minaragy1/](https://www.linkedin.com/resume-builder/urn:li:fsd_memberResume:51925353/)
+- 📄 Know about my experiences [Click Here]([https://www.linkedin.com/in/minaragy1/](https://www.linkedin.com/resume-builder/urn:li:fsd_memberResume:51925353/])
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
