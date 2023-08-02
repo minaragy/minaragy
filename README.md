@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, BOOTSTRAP, REACT**
 
-- 📫 How to reach me **minaragy138@gmail.com**(minaragy138@gmail.com)
+- 📫 How to reach me [**minaragy138@gmail.com**](minaragy138@gmail.com)
 
 - 📄 Know about my experiences [Click Here](https://www.linkedin.com/in/minaragy1/)
 
