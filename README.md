@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m CEO & Founder Of **Adeptus Solutions CO.**
+- 🔭 I’m a CEO & Founder Of **Adeptus Solutions CO.**
 
 - 🌱 I’m currently learning **Backend Development**
 
