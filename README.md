@@ -6,11 +6,11 @@
 
 
 
-- 🔭 I’m currently working At **Alx-Africa**
+- 🔭 I’m CEO & Founder Of **Adeptus Solutions CO.**
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, BOOTSTRAP, REACT**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, BOOTSTRAP, REACT.js, and Node.js**
 
 - 📫 How to reach me **minaragy138@gmail.com**
 
